@@ -98,7 +98,6 @@ The recognition script expects localization output at `results/faster_rcnn/outpu
 This was a group course project completed by:
 
 - Zakiye Rostamirad
-- Fatemeh Pakdaman
 - Mohammadreza Firoozalizadeh
 
 ## Notes
